@@ -1,2 +1,2 @@
 # hangman
-a quick letter guessing game, that guesses from a large file of words
+a letter guessing game, that incorporates a large file of words. words are randomly selected
